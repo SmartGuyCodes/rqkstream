@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "76399097838",
+    "firebase_url": "https://rqkstream.firebaseio.com",
+    "project_id": "rqkstream",
+    "storage_bucket": "rqkstream.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76399097838:android:9437fb131ea36c0eaa00ff",
+        "android_client_info": {
+          "package_name": "com.radioqurankenya.stream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76399097838-c2a7tkkv6509tujntfivg0k5odjug9dl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.radioqurankenya.stream",
+            "certificate_hash": "8a5a0bd580939291d2b5874d14042001d60958c0"
+          }
+        },
+        {
+          "client_id": "76399097838-triqk5bf9v23u8702mqcqi6t39t1qu52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUt_NRYP1oh5XttHUMvR6KF52rVOcBEUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76399097838-triqk5bf9v23u8702mqcqi6t39t1qu52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
